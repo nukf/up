@@ -4,8 +4,8 @@
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
-	"meta": [
-		{ "type": "id", "index": 0, "name": "Unannotated" },
+	"meta":[
+		{ "type": "id", "index": 0, "name": "Unannotated" }
 		
 	],
 	"sets": [
