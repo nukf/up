@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/nukf/up/main/TesselnSpiklet_peptide_intersection.csv",
+	"name": "Unnanotated SpikletnTessel peptides",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta":[
+		{ "type": "id", "index": 0, "name": "Unannotated" }
+		
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+	]
+}
